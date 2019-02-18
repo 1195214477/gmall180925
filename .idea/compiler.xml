@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gmall-list-service" />
+        <module name="gmall-mq-test" />
+        <module name="gmall180925" />
+        <module name="ticket" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="demo (1)" target="1.8" />
+      <module name="exer-maipiao" target="1.8" />
+      <module name="gmall-list-service" target="1.8" />
+      <module name="gmall-mq-test" target="1.8" />
+      <module name="gmall180925" target="1.8" />
+      <module name="maipiao" target="1.8" />
+      <module name="text" target="1.8" />
+      <module name="ticket" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
