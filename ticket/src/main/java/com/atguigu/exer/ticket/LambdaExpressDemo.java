@@ -10,6 +10,10 @@ interface Foo
     public default int div(int x,int y){
         return x/y;
     }
+
+    public static int mul(int x,int y){
+        return x*y;
+    }
 }
 
 public class LambdaExpressDemo
@@ -39,5 +43,6 @@ public class LambdaExpressDemo
         };
         System.out.println(foo.add(3,5));
         System.out.println(foo.div(10,5));
+        System.out.println(Foo.mul(2,2));
     };
 }
