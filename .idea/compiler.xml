@@ -19,6 +19,7 @@
       <module name="gmall-list-service" target="1.8" />
       <module name="gmall-mq-test" target="1.8" />
       <module name="gmall180925" target="1.8" />
+      <module name="jue" target="1.8" />
       <module name="maipiao" target="1.8" />
       <module name="text" target="1.8" />
       <module name="ticket" target="1.8" />
