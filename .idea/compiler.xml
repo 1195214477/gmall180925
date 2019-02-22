@@ -10,6 +10,7 @@
         <module name="gmall-list-service" />
         <module name="gmall-mq-test" />
         <module name="gmall180925" />
+        <module name="mybatis_plus" />
         <module name="ticket" />
       </profile>
     </annotationProcessing>
@@ -22,6 +23,7 @@
       <module name="gmall180925" target="1.8" />
       <module name="jue" target="1.8" />
       <module name="maipiao" target="1.8" />
+      <module name="mybatis_plus" target="1.8" />
       <module name="text" target="1.8" />
       <module name="ticket" target="1.8" />
     </bytecodeTargetLevel>

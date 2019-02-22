@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/gmall-list-service/gmall-list-service.iml" filepath="$PROJECT_DIR$/gmall-list-service/gmall-list-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall-mq-test/gmall-mq-test.iml" filepath="$PROJECT_DIR$/gmall-mq-test/gmall-mq-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/gmall180925.iml" filepath="$PROJECT_DIR$/gmall180925.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis_plus/mybatis_plus.iml" filepath="$PROJECT_DIR$/mybatis_plus/mybatis_plus.iml" />
       <module fileurl="file://$PROJECT_DIR$/ticket/ticket.iml" filepath="$PROJECT_DIR$/ticket/ticket.iml" />
     </modules>
   </component>
